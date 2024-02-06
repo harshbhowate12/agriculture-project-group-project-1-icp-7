@@ -14,7 +14,8 @@ body{
    font-size: 25px;
    padding: 20px 20px;
    color: white;
- }
+   text-decoration: none;
+}
  .anchor:hover{
    background-color: rgb(154, 147, 147);
    border: 2px solid black;
@@ -40,6 +41,7 @@ body{
    color: white;
    font-size: 25px;
    padding: 40px 40px;
+   text-decoration: none;
  }
  .anchor_1:hover{
    background-color: rgb(154, 147, 147);
