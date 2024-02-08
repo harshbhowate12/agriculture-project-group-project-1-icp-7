@@ -8,6 +8,8 @@ gray : rgb(154, 147, 147)
 */ 
 
 .navbar{
+    margin: 0px;
+    padding: 0px;
     padding-top: 15px;
     padding-bottom: 10px;
     background-color:rgb(7, 47, 7) ;
