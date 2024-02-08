@@ -83,3 +83,9 @@ body{
    text-align: center;
    margin-top: 150px;
  }
+@media screen and (max-width:900px){
+  .hamburger{
+    display: none;
+  }
+  
+}
