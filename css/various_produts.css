@@ -3,7 +3,11 @@ body{
     background-position: center; 
     background-repeat: no-repeat;
     background-size: cover; 
-   
+   height: 100vh !important;
+
+}
+.main_vegetable_container{
+    height: 100vh;
 }
 .various_produts_img{
     width: 500px;
@@ -38,7 +42,7 @@ body{
     font-style: italic;
 }
 .various_produts_info{
-    color: black;
+    color: white;
     width: 600px;
     margin-top: 50px;
     margin-left: 150px ;

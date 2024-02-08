@@ -19,7 +19,7 @@ body{
 .child{
     border-radius: 10px;
     width: 240px;
-    height: 500px;
+    height: 470px;
     overflow: hidden;
     padding: 5px 7px;
     margin-top: 60px;
@@ -36,7 +36,7 @@ body{
     font-size: 15px;
     font-weight: 200;
     text-align: justify;
-    padding: 5px 5px;
+    padding: 0px 5px;
 }
 .product_btn{
     background-color: rgb(7, 47, 7);
