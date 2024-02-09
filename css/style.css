@@ -51,3 +51,19 @@ gray : rgb(154, 147, 147)
    right: 10px;
    position: absolute;
   }
+
+  @media screen and (max-width:700px){
+    .hamburger{
+      visibility: visible;
+    }
+    .anchor{
+      display: none;
+    }
+  }
+
+  @media screen and (min-width:701px){
+.hamburger{
+  visibility: visible;
+}
+ }
+ 
