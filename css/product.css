@@ -46,3 +46,63 @@ body{
     border-radius: 10px;
     font-size: 20px;
 }
+  /* Mobile Devices */
+
+  @media screen and (max-width: 768px) {
+        .parent{
+            flex-wrap: wrap;
+            justify-content:space-around;
+    
+    
+          
+        }
+        body{
+            background-image: url("./../img/plant.jpg");
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size:cover;
+            height: max-content;
+    
+        }
+
+      
+    }
+
+
+  /* Tablet Devices */
+
+  @media screen and (min-width: 769px) and (max-width: 992px) {
+    .parent{
+        flex-wrap: wrap;
+        justify-content:space-around;
+
+
+      
+    }
+    body{
+        background-image: url("./../img/plant.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size:cover;
+        height: max-content;
+
+    }
+  }
+
+  /* Dekstop device */
+
+  @media screen and (min-width: 993px) and (max-width: 1200px) {
+    .parent {
+        flex-wrap: wrap;
+        justify-content:space-around;
+      
+    }
+    body{
+        background-image: url("./../img/plant.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size:cover;
+        height: max-content;
+
+    }
+  }

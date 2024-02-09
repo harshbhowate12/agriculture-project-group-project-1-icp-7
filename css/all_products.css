@@ -26,8 +26,11 @@ body{
 .cards{
     padding-top: 43px;
     display: flex;
-    justify-content: space-around;
+    flex-wrap: wrap;
+    justify-content:space-around;
     padding-bottom: 50px;
+    flex-wrap: wrap;
+    
 }
 .card_d{
     border-radius: 10px;
@@ -71,6 +74,12 @@ body{
     padding: 10px 40px;
     border: none;
     border-radius: 10px;
+<<<<<<< HEAD
+}
+
+ 
+=======
     margin-top: 10px;
     font-size: 20px;
 }
+>>>>>>> 22839a3f960c4a20b623764ea25c441def11800f
