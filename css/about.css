@@ -1,5 +1,6 @@
 body{
-    height: 130px;
+   margin: 0px;
+   padding: 0px;
     background-image: url("./../img/plant.jpg");
     background-position: center;
     background-repeat: no-repeat;
@@ -35,6 +36,7 @@ body{
   
 }
 .about_card{
+   
     background-color: rgb(7, 47, 7);
     height: 298px;
     position: relative;

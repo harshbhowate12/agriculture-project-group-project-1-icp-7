@@ -51,7 +51,6 @@ gray : rgb(154, 147, 147)
    right: 10px;
    position: absolute;
   }
-
   @media screen and (max-width:700px){
     .hamburger{
       visibility: visible;
@@ -66,4 +65,76 @@ gray : rgb(154, 147, 147)
   visibility: visible;
 }
  }
+ .footer{
+  display: flex;
+  position: relative;
+ top:180px;
+background-color: rgb(7, 47, 7);
+ }
+ .logo_img{
+  width:40px;
+  height: 40px;
+  display: flex;
+  position: relative;
+  top: 30px;
+  left: 120px;
  
+}
+ .footer_A{
+  width: 280px;
+  height: 250px;
+  padding: 20px;
+  margin-left: 20px;
+ }
+ .footer_heading{
+  text-align: center;
+  color: rgb(163, 163, 49);
+  font-style: italic;
+ }
+ .footer_info{
+  color: white;
+  text-align: center;
+  font-size: 20px;
+ }
+ .footer_info_1{
+  font-size: 20px;
+  color: white;
+  text-align: center;
+ }
+ .footer_phone{
+  width:30px;
+  height: 30px;
+position: relative;
+top: 185px;
+left: 50px;
+ }
+ .footer_mail{
+  width:30px;
+  height: 30px;
+  position: relative;
+top: 235px;
+left: 20px;
+ }
+ .footer_icons{
+  margin-left: 25px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+ }
+ .footer_icons:hover{
+box-shadow: 0px 0px 10px 3px white;
+ }
+ .footer_B{
+  margin-left: 20px;
+  margin-top: 20px;
+ }
+ .footer_heading_1{
+  margin-left: 0px;
+  color: rgb(163, 163, 49);
+  font-style: italic;
+ }
+ .footer_info_2{
+  margin-left: 10px;
+  font-size: 20px;
+  color: white;
+ }
