@@ -40,7 +40,7 @@ body{
     background-color: rgb(7, 47, 7);
     height: 298px;
     position: relative;
-    bottom: 180px;
+    bottom: 110px;
     display: flex;
 }
 .about_card_1{
@@ -59,4 +59,49 @@ body{
 .card_info{
     padding: 10px 10px;
 }
-
+.our-Team{
+   width: 800px;
+   height: 100px;
+}
+.team{
+ display: inline;
+ position: relative;
+ left: 500px;
+ font-size: 50px;
+ background-color:rgb(7, 47, 7) ;
+ color: white;
+ padding: 10px 10px;
+ border-radius: 20px;
+}
+.about_card_2{
+    background-color: rgb(7, 47, 7);
+    height: 298px;
+    position: relative;
+    bottom: 20px;
+    display: flex;
+}
+.about_card_3{
+    width:250px;
+    margin-left: 20px;
+    padding-left: 15px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color:rgb(45, 89, 56);
+}
+.photo{
+    width: 230px;
+    height: 200px;
+   padding-top: 10px;
+}
+.our_info{
+    display:inline;
+    font-size: 20px;
+    padding: 0px 10px;
+    color: white;
+}
+.so_acc{
+    width: 25px;
+    height: 25px;
+   padding-top: 30px;
+   padding-left: 10px;
+}
