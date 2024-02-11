@@ -66,9 +66,9 @@ body{
 }
 
 .footer_various_products{
-     display: flex;
-        position: relative;
-      bottom: 450px;
-      background-color: rgb(7, 47, 7);
+    display: flex;
+    position: relative;
+    bottom: 450px;
+    background-color: rgb(7, 47, 7);
 }
 
