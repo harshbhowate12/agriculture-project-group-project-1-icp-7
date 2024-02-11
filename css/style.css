@@ -98,8 +98,12 @@ background-color: rgb(7, 47, 7);
  }
  .footer_info_1{
   font-size: 20px;
-  color: white;
   text-align: center;
+  text-decoration: none;
+ }
+ .footer_link{
+  text-decoration: none;
+  color: white;
  }
  .footer_phone{
   width:30px;
