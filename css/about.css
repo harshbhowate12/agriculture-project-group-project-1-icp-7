@@ -75,7 +75,7 @@ body{
 }
 .about_card_2{
     background-color: rgb(7, 47, 7);
-    height: 298px;
+    height: 300px;
     position: relative;
     bottom: 20px;
     display: flex;
@@ -96,7 +96,7 @@ body{
 .our_info{
     display:inline;
     font-size: 20px;
-    padding: 0px 10px;
+    padding: 10px 10px;
     color: white;
 }
 .so_acc{
